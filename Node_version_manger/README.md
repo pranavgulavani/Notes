@@ -28,3 +28,8 @@ nvm use version_number
 ```
 nvm install node_version
 ```
+#### Remove Nvm from machine
+```
+rm -rf ~/.nvm
+```
+Remove any lines related to mvn from .bashsrc or .profile etc
