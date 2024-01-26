@@ -11,7 +11,7 @@ It is tool for managing Node js version on your device.
 
 ### Github repo
 
-[Node version manager]("https://github.com/nvm-sh/nvm")
+[Node version manager](https://github.com/nvm-sh/nvm)
 
 ### Common Commands 
 
